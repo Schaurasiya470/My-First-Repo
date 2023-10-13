@@ -1,0 +1,9 @@
+//WRITE A CODE IN C TO PRINT "HELLO WORLD" ON SCREEN..
+
+#include<stdio.h>
+void main()
+{
+ printf("\nHELLO WORLD\nI AM SACHIN CHAURASIYA\n");
+ printf("THIS IS MY FIRST PROGRAM OF MY LIFE\n");
+ printf("AND I AM JUST STARTING FROM BEGINING...\n\n");
+}
